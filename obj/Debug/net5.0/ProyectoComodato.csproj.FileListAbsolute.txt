@@ -1,0 +1,16 @@
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\bin\Debug\net5.0\ProyectoComodato.exe
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\bin\Debug\net5.0\ProyectoComodato.deps.json
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\bin\Debug\net5.0\ProyectoComodato.runtimeconfig.json
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\bin\Debug\net5.0\ProyectoComodato.runtimeconfig.dev.json
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\bin\Debug\net5.0\ProyectoComodato.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\bin\Debug\net5.0\ref\ProyectoComodato.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\bin\Debug\net5.0\ProyectoComodato.pdb
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\obj\Debug\net5.0\ProyectoComodato.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\obj\Debug\net5.0\ProyectoComodato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\obj\Debug\net5.0\ProyectoComodato.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\obj\Debug\net5.0\ProyectoComodato.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\obj\Debug\net5.0\ProyectoComodato.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\obj\Debug\net5.0\ProyectoComodato.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\obj\Debug\net5.0\ref\ProyectoComodato.dll
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\obj\Debug\net5.0\ProyectoComodato.pdb
+C:\Users\sebas\OneDrive\Escritorio\ProyectoComodato\obj\Debug\net5.0\ProyectoComodato.genruntimeconfig.cache

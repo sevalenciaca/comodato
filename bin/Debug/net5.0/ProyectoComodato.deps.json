@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProyectoComodato/1.0.0": {
+        "runtime": {
+          "ProyectoComodato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoComodato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
