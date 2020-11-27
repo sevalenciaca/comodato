@@ -6,7 +6,8 @@ namespace ProyectoComodato
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Ingrediente ingrediente1 = new Ingrediente(001,"Leche","Liquido blanco","ml");
+            ingrediente1.ReporteRangoPrecios();
         }
     }
 }
