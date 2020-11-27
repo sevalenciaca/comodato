@@ -7,36 +7,40 @@ namespace ProyectoComodato
     public class Ingrediente
     {
         // Atributos y métodos get y set de la clase Ingrediente
-        public int Id { get; set; } 
-        public String Nombre { get; set; }
-        public String Descripcion { get; set; }
-        public String UnidadMedida { get; set; }
+        public int ingId { get; set; } 
+        public String ingNombre { get; set; }
+        public String ingDescripcion { get; set; }
+        public String ingUnidadMedida { get; set; }
 
         // Metodo constructor
-        public Ingrediente(int Id, String Nombre, String Descripcion, String UnidadMedida)
+        public Ingrediente(int ingId, String ingNombre, String ingDescripcion, String ingUnidadMedida)
         {
-            this.Id = Id;
-            this.Nombre = Nombre;
-            this.Descripcion = Descripcion;
-            this.UnidadMedida = UnidadMedida;
+            this.ingId = ingId;
+            this.ingNombre = ingNombre;
+            this.ingDescripcion = ingDescripcion;
+            this.ingUnidadMedida = ingUnidadMedida;
         }
 
         // Metodos de la clase Ingrediente
+        public void ConsultarIngrediente()
+        {
+            // Excepcion: Ingrediente no resgistrado
+            Console.WriteLine("Ingrediente consultado");
+        }
         public void AdicionarIngrediente()
         {
+            // Excepcion: Ingrediente ya registrado
+            // Excepcion: Datos obligatorios incompletos
             Console.WriteLine("Ingrediente adicionado");
+        }
+        public void ModificarIngrediente()
+        {
+            // Excepcion: Datos obligatorios incompletos
+            Console.WriteLine("Ingrediente modificado");
         }
         public void InhabilitarIngrediente()
         {
             Console.WriteLine("Ingrediente eliminado");
-        }
-        public void ModificarIngrediente()
-        {
-            Console.WriteLine("Ingrediente modificado");
-        }
-        public void ConsultarIngrediente()
-        {
-            Console.WriteLine("Ingrediente consultado");
         }
         public void ReporteStock()
         {
