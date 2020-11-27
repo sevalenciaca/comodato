@@ -19,5 +19,21 @@ namespace ProyectoComodato
             this.ingFechaFi = ingFechaFi;
         }
 
+        public void RegistrarPrecio()
+        {
+            
+        }
+        public void EliminarPrecio()
+        {
+
+        }
+        public void RegistroHistoricoPrecio()
+        {
+
+        }
+        public void ReporteRangoPrecios()
+        {
+
+        }
     }
 }
